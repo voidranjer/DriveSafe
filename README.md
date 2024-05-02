@@ -20,3 +20,5 @@ https://github.com/voidranjer/DriveSafe/assets/60527897/f21b951b-1057-476c-9a9a-
 ### GitHub
 
 - [https://github.com/voidranjer/DriveSafe](https://github.com/voidranjer/DriveSafe)
+
+![v4_plot][https://docs.jamesyap.org/assets/images/training_plot-9037c8ba74810bb4eb010fc7e60bea1d.png]
