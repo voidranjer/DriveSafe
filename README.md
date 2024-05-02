@@ -1,11 +1,22 @@
-# DriveSafe
+# drivesafe.ai
 
-[Link](https://www.crazygames.com/game/city-car-driving-simulator) to the game.
+Driver Risk Assessment using Dashcam Footage and Machine Learning
 
-## Demo
+---
 
-https://github.com/voidranjer/DriveSafe/assets/60527897/013d13a7-d0d6-4e4e-aeb1-6f3b5ce80c61
+https://github.com/voidranjer/DriveSafe/assets/60527897/f21b951b-1057-476c-9a9a-e2a74f5ea1d0
 
-## Training Plot
+## Resources
 
-![plot](./img/plot.png)
+### Official Documentation
+
+- [https://docs.jamesyap.org/docs/projects/drivesafe/v1](https://docs.jamesyap.org/docs/projects/drivesafe/v1)
+
+### Kaggle
+
+- Download model from Kaggle [here](https://www.kaggle.com/models/voidranjer/drivesafe).
+- Download dataset from Kaggle [here](https://www.kaggle.com/datasets/voidranjer/drivesafe).
+
+### GitHub
+
+- [https://github.com/voidranjer/DriveSafe](https://github.com/voidranjer/DriveSafe)
